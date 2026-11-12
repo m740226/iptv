@@ -153,6 +153,7 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 深圳卫视，http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000638
 四川卫视，http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000643
 四川卫视，http://10.255.127.103:6410/gitv_live/G_SICHUAN-4K/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
+CCTV4K,http://10.255.127.35:6060/gitv_live/G_CCTV-4K-HD/index.m3u8?
 
 地方,#genre#
 安徽经济生活,http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000005
@@ -224,14 +225,13 @@ CETV4,http://10.255.127.35:6060/gitv_live/G_CETV-4/index.m3u8?Playtype=1&gMac=00
 马鞍山科教生活,http://10.255.126.3:8006/AHBKLIVE/11111120211027000000000000000001
 马鞍山新闻综合,http://10.255.126.3:8006/AHBKLIVE/11111120211018000000000000000015
 女性时尚,http://10.255.127.35:6060/gitv_live/G_NVXINGSS-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
-日本NHKWORLD,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 世界地理,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000045
 宿州科教,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000097
 宿州新闻综合,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000099
 天元围棋,http://10.255.127.35:6060/gitv_live/G_TIANYUANWQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 优漫卡通,http://10.255.127.35:6060/gitv_live/G_YOUMAN/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-CCTV4K,http://10.255.127.35:6060/gitv_live/G_CCTV-4K-HD/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 CCTV兵器科技,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000053
 CCTV第一剧场,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000039
 CCTV风云剧场,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000041
