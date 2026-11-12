@@ -135,6 +135,7 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 浙江卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000650
 浙江卫视,http://10.255.127.35:6060/gitv_live/G_ZHEJIANG-4K/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 浙江卫视,http://10.255.127.35:6060/gitv_live/G_ZHEJIANG-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+
 卫视4K，#genre#
 东方卫视，http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000654
 东方卫视，http://10.255.127.103:6410/gitv_live/G_DONGFANG-4K/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
@@ -179,13 +180,6 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 康巴卫视,http://10.255.127.35:6060/gitv_live/G_KANGBA/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 兵团卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000642
 兵团卫视,http://10.255.127.35:6060/gitv_live/G_BINGTUAN/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
-钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
 教育,#genre#
 CETV,http://10.255.127.35:6060/gitv_live/G_CETV-ZQJY-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
