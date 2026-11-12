@@ -135,6 +135,23 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 浙江卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000650
 浙江卫视,http://10.255.127.35:6060/gitv_live/G_ZHEJIANG-4K/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 浙江卫视,http://10.255.127.35:6060/gitv_live/G_ZHEJIANG-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+卫视4K，#genre#
+东方卫视，http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000654
+东方卫视，http://10.255.127.103:6410/gitv_live/G_DONGFANG-4K/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
+江苏卫视，http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000648
+江苏卫视，http://10.255.127.103:6410/gitv_live/G_JIANGSU-4K/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
+浙江卫视，http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000650
+浙江卫视，http://10.255.127.103:6410/gitv_live/G_ZHEJIANG-4K/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
+北京卫视，http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000633
+北京卫视，http://10.255.127.35:6060/gitv_live/G_BEIJING-4K/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+山东卫视，http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000652
+山东卫视，http://10.255.127.103:6410/gitv_live/G_SHANDONG-4K/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
+湖南卫视，http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000645
+湖南卫视，http://10.255.127.103:6410/gitv_live/G_HUNAN-4K/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
+广东卫视，http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000636
+深圳卫视，http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000638
+四川卫视，http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000643
+四川卫视，http://10.255.127.103:6410/gitv_live/G_SICHUAN-4K/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
 
 地方,#genre#
 安徽经济生活,http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000005
